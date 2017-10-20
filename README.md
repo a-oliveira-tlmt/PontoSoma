@@ -1,7 +1,7 @@
 # PontoSoma
 Exercício para Introduzir Classes e iniciar GitHub
 
->> Classe de pontos no plano cartesiano. Modelo de soma de vetores P1 + P2:
+Classe de pontos no plano cartesiano. Modelo de soma de vetores P1 + P2:
 
 x -> horizontal
 y -> vertical
