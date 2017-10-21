@@ -1,4 +1,0 @@
-Arquivo teste para push-pull no git-CLI
-
-Edit1 -> site
-
