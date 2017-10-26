@@ -13,7 +13,7 @@ class Point:
 	def __eq__(self, other):
 		isXEqual = self.Px == other.Px
 		isYEqual = self.Py == other.Py
-		return (isXEqual && isYEqual)
+		return (isXEqual & isYEqual)
 	
 	def __str__(self):
 		return ("P(" + str(self.Px) + "," + str(self.Py) + ")")
