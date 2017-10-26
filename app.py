@@ -26,7 +26,11 @@ def main(args=[]):
     print(PS)
 
     print("\nTeste de Igualdade entre P1 e P2: ")
-    print(P1 == P2)
+    
+    if(P1 == P2):
+        print("Pontos iguais")
+    else:
+        print("Pontos Diferentes")
     
     print(' ')
 
